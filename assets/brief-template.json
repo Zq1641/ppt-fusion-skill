@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "fields": {
+    "topic": "",
+    "industry": "",
+    "scenario": "",
+    "audience": "",
+    "audience_traits": "",
+    "page_count": "",
+    "page_count_min": 0,
+    "page_count_max": 0,
+    "style": "",
+    "palette_id": "",
+    "palette_custom": {"bg": "", "surface": "", "ink": "", "muted": "", "accent": "", "accent_ink": ""},
+    "expected_outcome": "",
+    "output_format": "pptx",
+    "source_material_type": "",
+    "source_files": [],
+    "language": "zh-CN",
+    "canvas": "16:9",
+    "delivery_context": "",
+    "inventory": "",
+    "reading_mode": "balanced",
+    "mode": "narrative",
+    "confirmed": false
+  },
+  "semantic": {"topic": "Literal", "audience": "Literal", "inventory": "Identity", "expected_outcome": "Semantic", "mode": "Semantic"},
+  "required_for_build": ["topic", "audience", "page_count", "style", "output_format", "source_material_type", "language", "expected_outcome", "inventory", "reading_mode", "mode"],
+  "notes": "v2.1：13 问（10 业务问 + inventory Q0 主体盘点 + reading_mode 阅读态 + mode 论证骨）；11 项必填由 REQUIRED 校验。inventory 分号隔开。由 brief_wizard.py --init 生成，--check 校验。confirmed=true 才允许进入 P2。"
+}

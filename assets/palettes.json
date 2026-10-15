@@ -1,0 +1,14 @@
+[
+  {"id": "executive-navy", "name": "稳妥专业", "bg": "#FFFFFF", "surface": "#F4F6F8", "ink": "#1D2430", "muted": "#5A6577", "accent": "#1A3A6B", "accent_ink": "#FFFFFF", "note": "白底+藏青点缀，融资/汇报万能，accent 只打关键数字与行动点。"},
+  {"id": "ink-paper", "name": "编辑纸感", "bg": "#F7F5F1", "surface": "#ECE8E0", "ink": "#1B1814", "muted": "#6B6560", "accent": "#0F7D45", "accent_ink": "#FFFFFF", "note": "低饱和纸色+深绿，文化/教育/答辩，章节可整页换深绿场。"},
+  {"id": "midnight-signal", "name": "深色科技", "bg": "#0A0D14", "surface": "#141A26", "ink": "#E9EDF3", "muted": "#9AA4B2", "accent": "#FF4A1F", "accent_ink": "#0A0D14", "note": "深底+信号橙，发布会/极客风，图上文字必须加 scrim。"},
+  {"id": "slate-teal", "name": "冷静青", "bg": "#F7F9FA", "surface": "#ECF0F2", "ink": "#1F3038", "muted": "#5D6B72", "accent": "#0D7480", "accent_ink": "#FFFFFF", "note": "冷白+深青，医疗/政务/汇报，克制 LOT。"},
+  {"id": "paper-leaf", "name": "纸叶绿", "bg": "#ECEBE7", "surface": "#E0DED8", "ink": "#2A2A26", "muted": "#6B6763", "accent": "#38450F", "accent_ink": "#FFFFFF", "note": "培训/青少年，橄榄绿点睛。"},
+  {"id": "cobalt-field", "name": "钴蓝整场", "bg": "#1423B8", "surface": "#1E32E0", "ink": "#FFFFFF", "muted": "#C9CFF5", "accent": "#FFD249", "accent_ink": "#1423B8", "note": "整场钴蓝+明黄点缀，发布会章节页，慎用大段正文。"},
+  {"id": "warm-stone", "name": "暖石灰", "bg": "#E8E8E3", "surface": "#DCDCD6", "ink": "#181715", "muted": "#63625C", "accent": "#7D0C14", "accent_ink": "#FFFFFF", "note": "提案/品牌，赭石红只打一处。"},
+  {"id": "forest-lime", "name": "森林暗场", "bg": "#0F1F10", "surface": "#1B2E1C", "ink": "#FFFFFF", "muted": "#B9C8B4", "accent": "#C6F19D", "accent_ink": "#0F1F10", "note": "新能源/户外暗场，荧光绿仅行动点。"},
+  {"id": "ink-gold", "name": "墨金政务", "bg": "#0C0A08", "surface": "#1C1815", "ink": "#FFFFFF", "muted": "#C9C2B8", "accent": "#C9A45A", "accent_ink": "#0C0A08", "note": "高端/政务/晚宴演讲，金色节制。"},
+  {"id": "signal-red", "name": "信号红", "bg": "#FFFFFF", "surface": "#F4F4F2", "ink": "#0A0A0A", "muted": "#5A5A5A", "accent": "#D92B21", "accent_ink": "#FFFFFF", "note": "警示/安全/公益，一屏一红。"},
+  {"id": "report-blocks", "name": "报告色块", "bg": "#FFFFFF", "surface": "#F7F7F5", "ink": "#000000", "muted": "#5A5A5A", "accent": "#FE7141", "accent_ink": "#000000", "note": "数据报告/路演干货，色块代替卡片。"},
+  {"id": "ocean-sand", "name": "海沙文旅", "bg": "#CBE4F2", "surface": "#DFEEF7", "ink": "#0A0A0A", "muted": "#3D5A6C", "accent": "#B0298F", "accent_ink": "#FFFFFF", "note": "文旅/城市宣讲，照片挑蓝调统一。"}
+]
